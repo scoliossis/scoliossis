@@ -17,7 +17,6 @@
 ![](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
 ![](https://img.shields.io/badge/python-0078D6?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/-HTML-de6400?style=for-the-badge&logo=html5&logoColor=black)
 ![](https://img.shields.io/badge/-POWERSHELL-012456?style=for-the-badge&logo=powershell&logoColor=white)
 
 ## Most Proud Repositories
