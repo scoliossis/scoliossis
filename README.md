@@ -4,9 +4,10 @@
 <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=scoliossis&theme=tokyonight&hide_border=true">
 
 - 16
-- I AM NOT SPANISH
-- Download mushroom client 2!
-- lesbiananimegirls on discord!
+- I love java
+- t.me/escamas1337
+- e-z.bio/spanish
+- give me ideas for projects pls!
 
 ### new github because i lost the password to my old one: https://github.com/scoliosiss
 
@@ -17,8 +18,4 @@
 ![](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
 ![](https://img.shields.io/badge/python-0078D6?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/-POWERSHELL-012456?style=for-the-badge&logo=powershell&logoColor=white)
-
-## Most Proud Repositories
-[![Mushroom Client](https://img.shields.io/badge/Mushroom_Client-D70040.svg?logo=github&logoColor=white)](https://github.com/scoliosiss/MushroomClient2)
-[![POOP CLIENT](https://img.shields.io/badge/bad_gui-8B4513.svg?logo=github&logoColor=white)](https://github.com/scoliosiss/Minecraft1.8.9GUI)
+![](https://img.shields.io/badge/-POWERSHE
