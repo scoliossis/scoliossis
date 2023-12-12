@@ -7,7 +7,6 @@
 - I love java
 - t.me/escamas1337
 - e-z.bio/spanish
-- give me ideas for projects pls!
 
 ### new github because i lost the password to my old one: https://github.com/scoliosiss
 
