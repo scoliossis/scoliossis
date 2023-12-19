@@ -4,10 +4,11 @@
 <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=scoliossis&theme=tokyonight&hide_border=true">
 
 - 16
-- I love java
+- I like java
+- want to learn c++
 - t.me/escamas1337
 - e-z.bio/spanish
-- lesbiananimegirls on discord 
+- lesbiananimegirls on discord
 
 ## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/grbT9dmk8w) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@mushroomclient/)
