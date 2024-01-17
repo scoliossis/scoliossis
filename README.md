@@ -6,9 +6,9 @@
 - 16
 - I like java
 - want to learn c++
-- t.me/escamas1337
-- e-z.bio/spanish
-- lesbiananimegirls on discord
+- [t.me/escamas1337](https://t.me/escamas1337)
+- [femboy.bio/spanish](https://e-z.bio/spanish)
+- lesbiananimegirl on discord
 
 ## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/grbT9dmk8w) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@mushroomclient/)
