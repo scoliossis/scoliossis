@@ -2,6 +2,7 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=scoliossis&theme=tokyonight&layout=compact&hide_border=true&langs_count=10&exclude_repo=mcp1.8.9op">
 <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=scoliossis&theme=tokyonight&hide_border=true">
 
+## About me:
 - 16
 - I like java
 - want to learn c++
