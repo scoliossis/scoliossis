@@ -5,8 +5,8 @@
 ## About me:
 - 16
 - I like java
-- want to learn c++
-- lesbiananimegirl on discord
+- cats go meow!
+- scoliosissy on discord
 
 ## Socials:
 - [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@scoliossis/)
