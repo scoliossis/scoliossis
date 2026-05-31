@@ -1,7 +1,4 @@
-<h1 align="center"><a href="https://github.com/scoliossis">scoliossis official github</a></h1>
-<div align="center">
-   <img src="https://dragonwarriorp.ee/images/scale.jpg" alt="me" />
-</div>
+<h1 align="center"><a href="https://github.com/scoliossis">github.com/scoliossis</a></h1>
 
 ```java
 public class Main {
