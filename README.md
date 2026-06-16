@@ -5,11 +5,11 @@ public class Scale extends Human {
     public Scale() {
         this.twitter = "https://x.com/scoliosissy";
         this.youtube = "https://www.youtube.com/@scoliosissy";
+        this.discordId = "1305176183658381487"
         this.info = """
-            I larp using latest java which has this cuter print function
-            I format code weird perhaps
             I've done WAY too much markdown in my time, so I decided this readme should be in java!
             I cried when I found out IO.printf doesn't exist.
+            I hope you enjoy this readme, i think it looks swag
         """;
         
         IO.println("Scale initialised: " + this.info);
